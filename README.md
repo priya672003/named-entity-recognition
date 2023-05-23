@@ -7,6 +7,10 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 ## Problem Statement and Dataset
 
 
+
+![image](https://github.com/priya672003/named-entity-recognition/assets/81132849/5b243518-600c-4ada-870c-6c96bd342b63)
+
+
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -33,6 +37,7 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 ## PROGRAM
 
 NAME : PRIYADARSHINI R 
+
 REG.NO : 212220230038
 
 
